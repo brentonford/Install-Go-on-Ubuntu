@@ -1,0 +1,23 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "bee85e85-25e9-4ee0-bc6f-67ce24a2e5c8", 
+    "isBlueprint": false, 
+    "key": "testingyourinstallation", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "createhelloworldgoapplication"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "buildhelloworldbinaryexecutable"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "installhelloworldexecutable"
+        }
+    ], 
+    "name": "Testing your Installation", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

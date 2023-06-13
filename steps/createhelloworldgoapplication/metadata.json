@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "7aefa241-cae5-48c1-87db-11c46d124c0d", 
+    "interpreter": 1, 
+    "key": "createhelloworldgoapplication", 
+    "name": "Create Hello World Go Application", 
+    "osCredKey": "user", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

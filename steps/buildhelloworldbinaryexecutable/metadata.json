@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "c3e4026f-b97a-491e-b126-e423e0409a4c", 
+    "interpreter": 1, 
+    "key": "buildhelloworldbinaryexecutable", 
+    "name": "Build Hello World Binary Executable", 
+    "osCredKey": "user", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "1621729f-648e-4eaa-a7e7-ef2cb1c11896", 
+    "interpreter": 1, 
+    "key": "setgopaths", 
+    "name": "Set Go Paths", 
+    "osCredKey": "user", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

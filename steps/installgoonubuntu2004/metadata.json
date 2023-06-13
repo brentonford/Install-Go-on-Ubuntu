@@ -1,0 +1,23 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "b28a0e2a-7df3-465e-abe4-e8ec8be4f183", 
+    "isBlueprint": true, 
+    "key": "installgoonubuntu2004", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "installgo"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "setgopaths"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "testingyourinstallation"
+        }
+    ], 
+    "name": "Install Go on Ubuntu 20.04", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

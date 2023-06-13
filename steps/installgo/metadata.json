@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "fcd62e7e-9307-49ce-891e-394db05ba72e", 
+    "interpreter": 1, 
+    "key": "installgo", 
+    "name": "Install Go", 
+    "osCredKey": "user", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

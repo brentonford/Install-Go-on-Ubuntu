@@ -1,0 +1,5 @@
+mkdir -p ~/Downloads/go
+cd ~/Downloads/go
+curl -OL {goTarbellUrl}
+sudo tar -C /usr/local -xvf go*.tar.gz
+rm -rf ~/Downloads/go

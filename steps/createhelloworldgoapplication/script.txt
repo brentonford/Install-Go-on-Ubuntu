@@ -1,0 +1,13 @@
+mkdir -p ~/go/hello
+cd ~/go/hello
+go mod init {ubuntuNode.domain}/hello
+cat << EOF > hello.go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+EOF
+go run .

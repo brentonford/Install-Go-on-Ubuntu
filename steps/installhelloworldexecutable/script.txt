@@ -1,0 +1,4 @@
+cd ~/go/hello
+export PATH=$PATH:$(go list -f '{{.Target}}')
+go install
+hello

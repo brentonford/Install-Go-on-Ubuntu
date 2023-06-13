@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "07f0767f-f2c8-4ae7-a1d0-242a519b7696", 
+    "key": "gotarballurl", 
+    "name": "Go Tarball URL", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.Text"
+}

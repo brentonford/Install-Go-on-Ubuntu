@@ -1,0 +1,1 @@
+Go Current Binary Release Tarball URL. Navigate to the [official Go downloads page](https://go.dev/dl/) in your web browser. From there, copy the URL for the current binary release’s tarball.

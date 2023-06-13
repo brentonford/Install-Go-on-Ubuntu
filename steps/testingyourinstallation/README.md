@@ -1,0 +1,1 @@
+Create a `Hello, World!` application to prove your Go installation is working.
